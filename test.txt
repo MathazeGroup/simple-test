@@ -2,11 +2,4 @@ Hello World
 jofehseiufhoes.jgmrdop
 fewtgfsdrhdr
 rgd
-<<<<<<< Updated upstream
 qqqqqqqqqqqqqqqqqq
-=======
-
-
-
-zzzzzzzzzzzzzzzzzzzzz
->>>>>>> Stashed changes
