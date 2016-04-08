@@ -2,9 +2,9 @@ Class test
 {
 	public void Main()
 	{
-		Console.WriteLine("fwfawfeioshgofes");
+
 		
 	}
 	
-	
+	public int a;
 }
