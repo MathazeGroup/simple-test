@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello World
 jofehseiufhoes.jgmrdop
 fewtgfsdrhdr
 rgd
 qqqqqqqqqqqqqqqqqq
+=======
+Hello World
+>>>>>>> parent of 1b5104d... 1.1
