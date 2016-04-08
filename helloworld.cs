@@ -12,4 +12,6 @@ Class test
 	
 	
 	public int a;
+	public bool b;
+
 }
