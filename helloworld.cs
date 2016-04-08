@@ -5,6 +5,11 @@ Class test
 
 		
 	}
+	public int Test()
+	{
+		return 1;
+	}
+	
 	
 	public int a;
 }
