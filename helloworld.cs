@@ -5,13 +5,18 @@ Class test
 
 		
 	}
-	public int Test()
-	{
-		return 1;
-	}
-	
+
 	
 	public int a;
-	public bool b;
+	
+	public int Test()
+	{
+		for(int i = 0; i < 10; i++)
+		{
+			a++;
+		}
+		return a;
+	}
+	
 
 }
